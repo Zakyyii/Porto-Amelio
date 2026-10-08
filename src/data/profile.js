@@ -110,6 +110,6 @@ export const profile = {
     email: "[najwanzaki1230@gmail.com]",
     phone: "+6287891884197",
     whatsapp: "https://wa.me/6287891884197",
-    cvFile: "/cv/CV_Najwan.pdf",
+    cvFile: "./CV_MOHAMAD_NAJWAN_ZAKI.pdf",
   },
 };

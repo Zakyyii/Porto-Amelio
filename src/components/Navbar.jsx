@@ -60,7 +60,7 @@ export default function Navbar() {
           <span className="font-mono text-xs uppercase tracking-widest text-accent font-normal">
             §
           </span>
-          <span>Portofolio</span>
+          <span>NAJWANZA</span>
         </button>
 
         {isMobile ? (
