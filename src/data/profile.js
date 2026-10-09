@@ -49,7 +49,7 @@ export const profile = {
         },
         {
           src: "/images/org/osis-2.webp",
-          program: "Audisi BAnd Sambadha Victory",
+          program: "Audisi Band Sambadha Victory",
           desc: "Ajang lomba band siswa/i smp dan sma se-banten."
         },
         {
