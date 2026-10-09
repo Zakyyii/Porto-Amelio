@@ -23,7 +23,7 @@ export const profile = {
     },
     {
       level: "SMP",
-      institution: "SMP Negeri 1 Karang Tanjung",
+      institution: "SMP Negeri 2 Karang Tanjung",
       startYear: 2020,
       endYear: 2023,
     },
